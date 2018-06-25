@@ -1,0 +1,12 @@
+html {
+	height: 100%;
+	box-sizing: border-box;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0;
+}
+#number_input {
+	text-align: right;
+}
